@@ -9,6 +9,6 @@
 
  <!-- Device -->
  <project path="device/xiaomi/vince" name="ltskiana/device_xiaomi_vince" remote="github" revision="alpha-13" clone-depth="1" />
- <project path="vendor/xiaomi/vince" name="AOSP-Silicon/vendor_xiaomi_vince" remote="github" revision="derpfest-13" clone-depth="1" />
+ <project path="vendor/xiaomi/vince" name="AOSP-Silicon/vendor_xiaomi_vince" remote="github" revision="alpha-13" clone-depth="1" />
 
 </manifest>
